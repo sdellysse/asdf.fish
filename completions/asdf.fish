@@ -1,3 +1,3 @@
-if [ -e "$HOME/.asdf/completions/asdf.fish" ]
-	source "$HOME/.asdf/completions/asdf.fish"
+if [ -e "$ASDF_DATA_DIR/completions/asdf.fish" ]
+	source "$ASDF_DATA_DIR/completions/asdf.fish"
 end
