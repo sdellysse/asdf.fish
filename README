@@ -1,0 +1,7 @@
+Follow instructions to `Install asdf-vm` on this page: https://asdf-vm.com/#/core-manage-asdf-vm
+
+then, instead of doing what they say for `Add to your shell`, do instead:
+
+    fisher add shawndellysse/asdf.fish
+
+
